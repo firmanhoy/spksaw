@@ -104,7 +104,7 @@ CREATE TABLE IF NOT EXISTS `saw_users` (
 -- Dumping data for table db_dss.saw_users: ~1 rows (approximately)
 /*!40000 ALTER TABLE `saw_users` DISABLE KEYS */;
 INSERT INTO `saw_users` (`id_user`, `username`, `password`) VALUES
-	(1, 'admin', '21232f297a57a5a743894a0e4a801fc3');
+	(1, 'admin', '12345678');
 /*!40000 ALTER TABLE `saw_users` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
